@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>WILL SCHILLER - Web3 engineering</title>
+        <title>WILL SCHILLER - Engineering</title>
         <link rel="icon" href="/favicon.ico" />
 
 
@@ -20,7 +20,7 @@ export default function Home() {
         <h1 className="title">
           WILL SCHILLER
         </h1>
-        <h2 className='title2'>Blockchain Engineer </h2>
+        <h2 className='title2'>Automation Engineering </h2>
 
     
       </main>
@@ -89,7 +89,7 @@ export default function Home() {
         .title2 {
           margin: 0;
           line-height: 1;
-          font-size: 2.9rem;
+          font-size: 2.45rem;
         }
         .description {
           line-height: 1.5;
